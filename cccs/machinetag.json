@@ -795,6 +795,11 @@
           "description": "Network Virtual Terminal Protocol."
         },
         {
+          "value": "protocol:ssh",
+          "expanded": "Protocol:ssh",
+          "description": "Secure SHell Protocol."
+        },
+        {
           "value": "protocol:sip",
           "expanded": "Protocol:sip",
           "description": "Session Initiation Protocol."
